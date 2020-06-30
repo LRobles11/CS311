@@ -1,0 +1,54 @@
+                                                                                                                                                         Script started on Fri 20 Sep 2019 10:08:34 PM PDT
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search^G^[[?1034h[roble086@empress HW2P1_search]$ g++ binserach.cp^[[1Pch.cp^[[1Pch.cach.crch.c
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search^G[roble086@empress HW2P1_search]$ ./a.out
+What do you want to look for? 1
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 0
+Found it in position 1
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search^G[roble086@empress HW2P1_search]$ ./a.out
+What do you want to look for? 19
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+comparing against an element in slot 9
+Found it in position 10
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search^G[roble086@empress HW2P1_search]$ ./a.out
+What do you want to look for? 5
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 2
+Found it in position 3
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search^G[roble086@empress HW2P1_search]$ ./a.out
+What do you want to look for? 17
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+Found it in position 9
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search^G[roble086@empress HW2P1_search]$ ./a.out
+What do you want to look for? 21
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+comparing against an element in slot 9
+Not found
+Element not found
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search^G[roble086@empress HW2P1_search]$ ./a.out
+What do you want to look for? 0
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 0
+Not found
+Element not found
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search^G[roble086@empress HW2P1_search]$ ./a.out
+What do you want to look for? 6
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 2
+comparing against an element in slot 3
+Not found
+Element not found
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW2/HW2P1_search^G[roble086@empress HW2P1_search]$ exit
+exit
+
+Script done on Fri 20 Sep 2019 10:10:11 PM PDT

@@ -1,0 +1,107 @@
+Script started on Fri 22 Nov 2019 09:27:49 AM PST
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW8^G^[[?1034h[roble086@empress forHW8]$ logoemacs hw8client.cpls^[emacs hw8cl\
+ient.cplogout^[^[[Kg++ elem.cpp htable.cpp hw8client.cpp llist.cpp slist.cpp
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW8^G[roble086@empress forHW8]$ ./a.out
+Enter a key (3 digit number): 1
+Enter name: jim
+Enter a key (3 digit number): 2
+Enter name: kim
+Enter a key (3 digit number): 3
+Enter name: bob
+Enter a key (3 digit number): 4
+Enter name: joe
+Enter a key (3 digit number): 5
+Enter name: diego
+Enter a key (3 digit number): 6
+Enter name: tim
+Enter a key (3 digit number): 7
+Enter name: jose
+Enter a key (3 digit number): 8
+Enter name: leo
+Enter a key (3 digit number): 9
+Enter name: nick
+Enter a key (3 digit number): 10
+Enter name: alberto
+Enter a key (3 digit number): 11
+Enter name: bryan
+Enter a key (3 digit number): 12
+Enter name: moe
+Enter a key (3 digit number): 13
+Enter name: rosa
+Enter a key (3 digit number): 14
+Enter name: juan
+Enter a key (3 digit number): 15
+Enter name: luis
+Enter a key (3 digit number): 16
+Enter name: anissa
+Enter a key (3 digit number): 38
+Enter name: marc
+Enter a key (3 digit number): 39
+Enter name: susie
+Enter a key (3 digit number): 40
+Enter name: rudy
+Enter a key (3 digit number): 76
+Enter name: ariana
+0:[ empty ]
+1:[ 1+jim 38+marc ]
+2:[ 2+kim 39+susie 76+ariana ]
+3:[ 3+bob 40+rudy ]
+4:[ 4+joe ]
+5:[ 5+diego ]
+6:[ 6+tim ]
+7:[ 7+jose ]
+8:[ 8+leo ]
+9:[ 9+nick ]
+10:[ 10+alberto ]
+11:[ 11+bryan ]
+12:[ 12+moe ]
+13:[ 13+rosa ]
+14:[ 14+juan ]
+15:[ 15+luis ]
+16:[ 16+anissa ]
+17:[ empty ]
+18:[ empty ]
+19:[ empty ]
+20:[ empty ]
+21:[ empty ]
+22:[ empty ]
+23:[ empty ]
+24:[ empty ]
+25:[ empty ]
+26:[ empty ]
+27:[ empty ]
+28:[ empty ]
+29:[ empty ]
+30:[ empty ]
+31:[ empty ]
+32:[ empty ]
+33:[ empty ]
+34:[ empty ]
+35:[ empty ]
+36:[ empty ]
+Look for (enter -1 to exit program)? 1
+Found 1: 1+jim
+Look for (enter -1 to exit program)? 38
+Found 38: 38+marc
+Look for (enter -1 to exit program)? 16
+Found 16: 16+anissa
+Look for (enter -1 to exit program)? 39
+Found 39: 39+susie
+Look for (enter -1 to exit program)? 2
+Found 2: 2+kim
+Look for (enter -1 to exit program)? 76
+Found 76: 76+ariana
+Look for (enter -1 to exit program)? 45
+45 not found!
+Look for (enter -1 to exit program)? 23
+23 not found!
+Look for (enter -1 to exit program)? 10
+Found 10: 10+alberto
+Look for (enter -1 to exit program)? 645
+645 not found!
+Look for (enter -1 to exit program)? -1
+^[]0;roble086@empress:~/CS311Progs/HWPrograms/forHW8^G[roble086@empress forHW8]$ exit
+exit
+
+Script done on Fri 22 Nov 2019 09:33:15 AM PST
+
